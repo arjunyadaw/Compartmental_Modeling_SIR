@@ -1,4 +1,4 @@
-# Compartmental Modeling SIR:
+# Compartmental Model (S.I.R.):
 Compartmental model for the spread of an infectious disease is the SIR (Susceptible-Infected-Recovered) model. 
 Here we consider three compartments (S,I,R) and aim to understand the dynamics between these groups through differential equations that describe how one compartment transitions to another.
  -	Susceptible (S): Individuals who have not yet been infected but are at risk.
